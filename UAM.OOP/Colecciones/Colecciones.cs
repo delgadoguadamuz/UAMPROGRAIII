@@ -8,5 +8,7 @@ namespace UAM.OOP.Colecciones
 {
     class Colecciones
     {
+
+
     }
 }
