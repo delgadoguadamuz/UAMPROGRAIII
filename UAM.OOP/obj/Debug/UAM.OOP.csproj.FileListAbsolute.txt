@@ -11,3 +11,10 @@ C:\Users\Soporte\Downloads\UAM.OOP\UAM.OOP\obj\Debug\UAM.OOP.csprojAssemblyRefer
 C:\Users\Soporte\Downloads\UAM.OOP\UAM.OOP\obj\Debug\UAM.OOP.csproj.CoreCompileInputs.cache
 C:\Users\Soporte\Downloads\UAM.OOP\UAM.OOP\obj\Debug\UAM.OOP.exe
 C:\Users\Soporte\Downloads\UAM.OOP\UAM.OOP\obj\Debug\UAM.OOP.pdb
+C:\Users\Soporte\Source\Repos\delgadoguadamuz\UAMPROGRAIII\UAM.OOP\bin\Debug\UAM.OOP.exe.config
+C:\Users\Soporte\Source\Repos\delgadoguadamuz\UAMPROGRAIII\UAM.OOP\bin\Debug\UAM.OOP.exe
+C:\Users\Soporte\Source\Repos\delgadoguadamuz\UAMPROGRAIII\UAM.OOP\bin\Debug\UAM.OOP.pdb
+C:\Users\Soporte\Source\Repos\delgadoguadamuz\UAMPROGRAIII\UAM.OOP\obj\Debug\UAM.OOP.csprojAssemblyReference.cache
+C:\Users\Soporte\Source\Repos\delgadoguadamuz\UAMPROGRAIII\UAM.OOP\obj\Debug\UAM.OOP.csproj.CoreCompileInputs.cache
+C:\Users\Soporte\Source\Repos\delgadoguadamuz\UAMPROGRAIII\UAM.OOP\obj\Debug\UAM.OOP.exe
+C:\Users\Soporte\Source\Repos\delgadoguadamuz\UAMPROGRAIII\UAM.OOP\obj\Debug\UAM.OOP.pdb
